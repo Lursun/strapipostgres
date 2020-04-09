@@ -1,0 +1,17 @@
+{
+  "name": "strapi-provider-upload-ipfs",
+  "version": "0.0.2",
+  "description": "strapi-provider-upload-ipfs",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lursun914013@gmail.com",
+  "license": "MIT",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "ipfs": "^0.42.1"
+  }
+}
